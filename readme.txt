@@ -4,4 +4,4 @@ hello,kai
 cache jobs
 Git tracks changes of files.
 push origin.
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
